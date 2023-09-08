@@ -1,4 +1,4 @@
-# Unveiling the Hidden Insights: Radiomics Signature of the Non-Ischemic Dilated Cardiomyopathy Using Cardiovascular Magnetic Resonance
+# Cardiovascular Magnetic Resonance Radiomics to Identify Components of the Extracellular Matrix in Dilated Cardiomyopathy 
 
 ## Description of Code
 
