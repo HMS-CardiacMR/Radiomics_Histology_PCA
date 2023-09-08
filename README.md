@@ -17,7 +17,8 @@ The code will loop over all sequences and return all radiomic features per seque
 Run PCA_analysis for principla component analysis. The code will also return radiomic features that are highly correlated with each component.
 
 
-![image](https://github.com/HMS-CardiacMR/Radiomics_Histology_PCA/assets/9512423/1657557f-702c-44b4-8a9c-d702642aed47)
+![image](https://github.com/HMS-CardiacMR/Radiomics_Histology_PCA/assets/9512423/6bdb96c4-2330-4098-a1f4-15ef8643bd3e)
+
 
 ## Abstract
 
