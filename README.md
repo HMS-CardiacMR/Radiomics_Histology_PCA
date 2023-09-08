@@ -17,6 +17,8 @@ The code will loop over all sequences and return all radiomic features per seque
 Run PCA_analysis for principla component analysis. The code will also return radiomic features that are highly correlated with each component.
 
 
+![image](https://github.com/HMS-CardiacMR/Radiomics_Histology_PCA/assets/9512423/1657557f-702c-44b4-8a9c-d702642aed47)
+
 ## Abstract
 
 Background: Current cardiovascular magnetic resonance (CMR) sequences cannot discriminate between different myocardial extracellular space (ECS), including collagen, non-collagen, and inflammation. We sought to investigate if CMR radiomics analysis can distinguish between non-collagen and inflammation from collagen in dilated cardiomyopathy (DCM).
